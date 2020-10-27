@@ -7,10 +7,7 @@
     <link rel="stylesheet" href="syyltproject.css">
     
 <body>
-    <nav class="nav">
-       
-       
-           
+    <nav class="nav">      
         <div class="logo">
       <img src="Dermatologie de laboratoire.png">
       <div class="container">
